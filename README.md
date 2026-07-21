@@ -64,39 +64,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="49%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=3fa9f5&text_color=c9d1d9&icon_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
-  <img src="https://github-readme-stats.shion.dev/api?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=3fa9f5&text_color=c9d1d9&icon_color=58a6ff" width="100%"/>
-</picture>
-</td>
-<td width="49%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=3fa9f5&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Deepaksingh0510&hide_border=true&border_radius=0&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=3fa9f5&text_color=c9d1d9" width="100%"/>
-</picture>
-</td>
-</tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Deepaksingh0510&hide_border=true&border_radius=0&background=0d1117&ring=3fa9f5&fire=3fa9f5&currStreakLabel=3fa9f5&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Deepaksingh0510&hide_border=true&border_radius=0&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&sideNums=24292f&currStreakNum=24292f&dates=6e7781">
-  <img src="https://streak-stats.demolab.com/?user=Deepaksingh0510&hide_border=true&border_radius=0&background=0d1117&ring=3fa9f5&fire=3fa9f5&currStreakLabel=3fa9f5&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="70%"/>
-</picture>
-
-</div>
-
-<br/>
-
 ## 🔥 LeetCode Heatmap
 
 <div align="center">
