@@ -31,44 +31,19 @@
 
 </div>
 
-> ⚠️ Quick fix note: the link originally labeled "GitHub" actually pointed to LeetCode — it's corrected above.
-
 <br/>
 
-## 💻 Tech Stack
+## 🔧 Languages & Tools
 
 <div align="center">
 
-**Languages**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,c,java,git,github,mysql,vscode,linux,tensorflow,pytorch&theme=dark" />
 
 </div>
 
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 <table>
 <tr>
@@ -94,8 +69,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Deepaksingh0510&hide_border=true&border_radius=0&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&sideNums=24292f&currStreakNum=24292f&dates=6e7781">
   <img src="https://streak-stats.demolab.com/?user=Deepaksingh0510&hide_border=true&border_radius=0&background=0d1117&ring=3fa9f5&fire=3fa9f5&currStreakLabel=3fa9f5&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="70%"/>
 </picture>
-
-</div>
 
 <br/>
 
