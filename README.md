@@ -82,8 +82,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Deepaksingh0510&icon=0&color=3fa9f5&style=for-the-badge)](https://visitcount.itsvg.in)
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
